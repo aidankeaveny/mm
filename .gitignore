@@ -1,0 +1,26 @@
+# Ignore Conda environment folders
+env/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+
+# unnecessary files
+2025.pdf
+algebracket.py
+check.py
+march_madness_final_model.pkl
+mm.ipynb
+mm1.ipynb
+mm2.ipynb
+scaler.pkl
+slider_sa_results.csv
